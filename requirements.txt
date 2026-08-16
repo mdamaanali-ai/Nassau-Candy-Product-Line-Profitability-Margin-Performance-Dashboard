@@ -1,0 +1,6 @@
+streamlit>=1.18
+pandas>=2.0
+numpy
+plotly
+folium
+requests
