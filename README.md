@@ -20,7 +20,7 @@ Deployment-ready: includes requirements.txt and Dockerfile for Streamlit Cloud, 
 
 📥 **Download the CSV:** `Nassau Candy Distributor.csv`
 
-🚀 **Upload the downloaded CSV to the deployed Streamlit website** using the CSV upload option to explore the dataset and generate interactive visualizations and insights.
+[![📥 Download CSV](https://img.shields.io/badge/📥%20Download%20CSV-Download%20Dataset-blue?style=for-the-badge)](https://github.com/mdamaanali-ai/Nassau-Candy-Product-Line-Profitability-Margin-Performance-Dashboard/raw/refs/heads/main/Nassau%20Candy%20Distributor.csv)
 
 [![🚀 Open Streamlit Dashboard](https://img.shields.io/badge/🚀%20Open%20Streamlit%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://pzhgyt3yytfue8qt2bq6is.streamlit.app/)
 
