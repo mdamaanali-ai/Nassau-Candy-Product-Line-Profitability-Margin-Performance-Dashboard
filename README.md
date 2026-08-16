@@ -22,3 +22,5 @@ Deployment-ready: includes requirements.txt and Dockerfile for Streamlit Cloud, 
 
 🚀 **Upload the downloaded CSV to the deployed Streamlit website** using the CSV upload option to explore the dataset and generate interactive visualizations and insights.
 
+[![🚀 Open Streamlit Dashboard](https://img.shields.io/badge/🚀%20Open%20Streamlit%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://pzhgyt3yytfue8qt2bq6is.streamlit.app/)
+
