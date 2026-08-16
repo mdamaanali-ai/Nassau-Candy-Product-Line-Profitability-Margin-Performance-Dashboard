@@ -17,3 +17,8 @@ Margin volatility: monthly margin trends and rolling volatility per product.
 Factory-product mapping: visualize product-to-factory relationships on a map.
 Exportable reports: download cleaned dataset, product metrics, and division metrics as CSV.
 Deployment-ready: includes requirements.txt and Dockerfile for Streamlit Cloud, Render, or other Docker hosts.
+
+📥 **Download the CSV:** `Nassau Candy Distributor.csv`
+
+🚀 **Upload the downloaded CSV to the deployed Streamlit website** using the CSV upload option to explore the dataset and generate interactive visualizations and insights.
+
